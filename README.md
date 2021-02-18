@@ -1,6 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### OLÁ 👋
 <br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Giovane-Roberti-Tafine&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-Roberti-Tafine&theme=synthwave&hide_border=true&layout=compact&locale=pt-br" />
+<img src="https://github-readme-stats.vercel.app/api?username=Giovane-Roberti-Tafine&show_icons=true&hide=stars&theme=synthwave&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true" />
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

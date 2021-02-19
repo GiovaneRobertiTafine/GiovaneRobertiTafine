@@ -1,10 +1,12 @@
 <!-- ### Hi there 👋 -->
-### OLÁ 👋  
+## OLÁ 👋  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giovane-roberti-tafine/) [<img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/giovanerobertitafine) 
+
 Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cursos voltados para **Desenvolvimento Web**.
 
 - 🔭 Atualmente estou trabalhando em uma empresa que presta **consultoria para bancos** e sistemas para o banco central.
 - 🌱 Atualmente estou aprendendo a plataforma **.NET** e **C#**, para aplicações em **back-end**, continuo realizando projetos pessoas com **front-end** também.
-- 📫 Podem me procurar pelo LinkedIn, o link esta abaixo ou me mande um e-mail: <a href="mailto:kstv23@hotmail.com?subject=Olá">kstv23@hotmail.com<a/>
+- 📫 Podem me procurar pelo LinkedIn, o link esta acima ou me mande um e-mail: <a href="mailto:kstv23@hotmail.com?subject=Olá">kstv23@hotmail.com<a/>
 - ⚡ Curto artigos sobre tecnologia, como na [**DEV**](https://dev.to/) e em algumas **Newsletter**, escutar música no **Spotify**, assistir séries nas plataformas de **Streaming** baseadas em fatos reais.
   
 <span>
@@ -14,7 +16,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giovane-Roberti-Tafine&show_icons=true&hide=stars&theme=synthwave&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true" />
 <span/>   
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giovane-roberti-tafine/) [<img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/giovanerobertitafine) 
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

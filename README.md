@@ -7,7 +7,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 - 🔭 Atualmente estou trabalhando em uma empresa que presta **consultoria para bancos** e sistemas para o banco central.
 - 🌱 Atualmente estou aprendendo a plataforma **.NET** e **C#**, para aplicações em **back-end**, continuo realizando projetos pessoas com **front-end** também.
 - 📫 Podem me procurar pelo LinkedIn, o link esta acima ou me mande um e-mail: <a href="mailto:kstv23@hotmail.com?subject=Olá">kstv23@hotmail.com<a/>
-- ⚡ Curto artigos sobre tecnologia, como na [**DEV**](https://dev.to/) e em algumas **Newsletter**, escutar música no **Spotify**, assistir séries nas plataformas de **Streaming** baseadas em fatos reais.
+<!-- - ⚡ Curto artigos sobre tecnologia, como na [**DEV**](https://dev.to/) e em algumas **Newsletter**, escutar música no **Spotify** -->
   
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-Roberti-Tafine&theme=synthwave&hide_border=true&layout=compact&locale=pt-br" />

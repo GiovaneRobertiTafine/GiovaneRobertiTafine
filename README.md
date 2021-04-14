@@ -10,10 +10,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 <!-- - ⚡ Curto artigos sobre tecnologia, como na [**DEV**](https://dev.to/) e em algumas **Newsletter**, escutar música no **Spotify** -->
   
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-Roberti-Tafine&theme=synthwave&hide_border=true&layout=compact&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandrilla34&theme=synthwave&hide_border=true&layout=compact&locale=pt-br" />
 <span/>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giovane-Roberti-Tafine&show_icons=true&hide=stars&theme=synthwave&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mandrilla34&show_icons=true&hide=stars&theme=synthwave&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true" />
 <span/>   
   
 <!--

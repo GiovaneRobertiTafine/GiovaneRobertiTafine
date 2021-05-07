@@ -4,7 +4,7 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cursos voltados para **Desenvolvimento Web**.
 
-- 🔭 Atualmente estou trabalhando em uma empresa que presta **consultoria para bancos** e sistemas para o banco central.
+- 🔭 Atualmente estou trabalhando em uma empresa que presta **consultoria para bancos** com integração ao banco central.
 - 🌱 Atualmente estou aprendendo a plataforma **.NET** e **C#**, para aplicações em **back-end**, continuo realizando projetos pessoas com **front-end** também.
 <!-- - ⚡ Curto artigos sobre tecnologia, como na [**DEV**](https://dev.to/) e em algumas **Newsletter**, escutar música no **Spotify** -->
   

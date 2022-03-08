@@ -13,7 +13,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 <a/>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mandrilla34&show_icons=true&hide=stars&theme=cobalt&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=7000" />
-<a/>   
+<a/>  
+
+<p>I feel God in this Chili’s tonight.</p>
+
+<p>- Pam Beesly</p>
   
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

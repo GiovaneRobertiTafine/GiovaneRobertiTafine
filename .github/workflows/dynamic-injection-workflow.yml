@@ -2,6 +2,7 @@ name: Dynamic README injection
 on:
   schedule: 
     - cron: "0-59 * * * *"
+    workflow_dispatch:
   jobs:
     get-office-quotes:
       runs-on: ubuntu-latest

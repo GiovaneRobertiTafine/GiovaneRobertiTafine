@@ -1,10 +1,8 @@
 name: Dynamic README injection
 on:
-  schedule: # Run workflow automatically
-    # This will make it run every hour
+  schedule: 
     - cron: "0-59 * * * *"
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-    jobs:
+  jobs:
   get-office-quotes:
     runs-on: ubuntu-latest
     steps:

@@ -5,7 +5,7 @@ on:
       - master
   schedule: # Run workflow automatically
     # This will make it run every hour
-    - cron: "0/1 * * * *"
+    - cron: "*/5 * * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   get-office-quotes:

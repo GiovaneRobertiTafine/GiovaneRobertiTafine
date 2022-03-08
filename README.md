@@ -20,6 +20,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase "Da Hora" do the office:
 
+> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+>
+> <p>- Michael Scott</p>
+
 _Cotação solicitada de [A API do Office](https://www.officeapi.dev/)_
 
 Volte em outra hora para uma nova frase!

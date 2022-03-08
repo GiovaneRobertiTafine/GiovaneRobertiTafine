@@ -18,6 +18,8 @@ jobs:
         with:
           node-version: 14.6.0
 
+      - run: npm i
+
       - run: node .
 
       - name: Add to git repo

@@ -8,16 +8,21 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 - 🌱 Atualmente estou aprendendo a plataforma **.NET** e **C#**, para aplicações em **back-end**, continuo realizando projetos pessoas com **front-end** também.
 <!-- - ⚡ Curto artigos sobre tecnologia, como na [**DEV**](https://dev.to/) e em algumas **Newsletter**, escutar música no **Spotify** -->
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandrilla34&theme=cobalt&hide_border=true&layout=compact&locale=pt-br&cache_seconds=7000" />
-<a/>
-<a href="https://github.com/anuraghazra/convoychat">
+| <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandrilla34&theme=cobalt&hide_border=true&layout=compact&locale=pt-br&cache_seconds=7000" alt="Estatísticas do github"/>
+<a/> | 
+| <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mandrilla34&show_icons=true&hide=stars&theme=cobalt&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=7000" />
-<a/>  
+<a/> | 
+| ------------- | ------------- |
 
-<p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
+<br>
 
-<p>- Darryl Philbin</p>
+## 📣 Frase "Da Hora" do the office:
+
+_Cotação solicitada de [A API do Office](https://www.officeapi.dev/)_
+
+Volte em outra hora para uma nova frase!
   
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

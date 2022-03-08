@@ -24,7 +24,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 >
 > <p>{office_character}</p>
 
-_Cotação solicitada de [A API do Office](https://www.officeapi.dev/)_
+_Solicitada de [A API do Office](https://www.officeapi.dev/)_
 
 Volte em outra hora para uma nova frase!
   

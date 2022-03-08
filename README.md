@@ -13,15 +13,15 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 <br>
 
-## 📣 Frase "Da Hora" do the office:
+## 📣 Frase do dia do the office:
 
-> It has to be official, and it has to be urine.
+> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 
-Volte em outra hora para uma nova frase!
+Volte em outro dia para uma nova frase!
   
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

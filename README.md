@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mandrilla34&show_icons=true&hide=stars&theme=cobalt&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=7000" />
 <a/>  
 
-<p>I feel God in this Chili’s tonight.</p>
+<p>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</p>
 
-<p>- Pam Beesly</p>
+<p>- Darryl Philbin</p>
   
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

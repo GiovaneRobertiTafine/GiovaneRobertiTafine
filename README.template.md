@@ -13,7 +13,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 <br>
 
-## 📣 Frase "Da Hora" do the office:
+## 📣 Frase do dia do the office:
 
 > {office_quote}
 >
@@ -21,7 +21,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 
-Volte em outra hora para uma nova frase!
+Volte em outro dia para uma nova frase!
   
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

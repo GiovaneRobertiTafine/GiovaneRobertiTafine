@@ -1,5 +1,8 @@
 name: Dynamic README injection
 on:
+  push:
+    branches:
+      - master
   schedule: # Run workflow automatically
     # This will make it run every hour
     - cron: "0/1 * * * *"

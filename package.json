@@ -1,0 +1,22 @@
+{
+  "name": "mandrilla34",
+  "version": "1.0.0",
+  "description": "<!-- ### Hi there 👋 -->\r ## OLÁ 👋  \r [<img src=\"https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white\" />](https://www.linkedin.com/in/giovane-roberti-tafine/) [<img src = \"https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white\">](https://dev.to/giovanerobertitafine)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandrilla34/mandrilla34.git"
+  },
+  "author": "Giovane Roberti Tafine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandrilla34/mandrilla34/issues"
+  },
+  "homepage": "https://github.com/mandrilla34/mandrilla34#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0"
+  }
+}

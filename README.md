@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mandrilla34&show_icons=true&hide=stars&theme=cobalt&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=7000" />
 <a/>  
 
-<p>Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.</p>
+<p>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</p>
 
-<p>- Ryan Howard</p>
+<p>- Oscar Martinez</p>
   
 <!--
 **Giovane-Roberti-Tafine/Giovane-Roberti-Tafine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

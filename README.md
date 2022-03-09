@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase do dia do the office:
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Creed Bratton</p>
+> <p>- Kevin Malone</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

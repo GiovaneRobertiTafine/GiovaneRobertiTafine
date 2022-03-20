@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase do dia do the office:
 
-> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
+> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Ryan Howard</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

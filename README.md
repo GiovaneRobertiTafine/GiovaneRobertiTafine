@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase do dia do the office:
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> Dwight, you ignorant slut!
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

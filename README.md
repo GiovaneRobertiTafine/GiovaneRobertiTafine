@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase do dia do the office:
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Jim Halpert</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase do dia do the office:
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Angela Martin</p>
+> <p>- Andy Bernard</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

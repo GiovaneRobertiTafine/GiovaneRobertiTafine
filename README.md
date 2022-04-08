@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase do dia do the office:
 
-> I feel God in this Chili’s tonight.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Pam Beesly</p>
+> <p>- Angela Martin</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

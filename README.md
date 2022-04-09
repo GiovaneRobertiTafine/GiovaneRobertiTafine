@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Frase do dia do the office:
 
-> If you pray enough, you can change yourself into a cat person.
+> I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.
 >
-> <p>- Angela Martin</p>
+> <p>- Kelly Kapoor</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

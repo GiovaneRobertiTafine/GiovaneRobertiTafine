@@ -13,11 +13,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 <br>
 
-## 📣 Frase do dia do the office:
+## 📣 Day note, the office:
 
-> Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?
+> Did I stutter?
 >
-> <p>- Creed Bratton</p>
+> <p>- Stanley Hudson</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

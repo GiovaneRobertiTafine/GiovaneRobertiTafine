@@ -13,7 +13,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 <br>
 
-## 📣 Frase do dia do the office:
+## 📣 Day note, the office:
 
 > I have a lot of questions. Number one, how dare you?
 >

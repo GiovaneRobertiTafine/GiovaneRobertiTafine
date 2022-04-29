@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Gabe Lewis</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

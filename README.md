@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

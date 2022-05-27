@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Pam Beesly</p>
+> <p>- Gabe Lewis</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

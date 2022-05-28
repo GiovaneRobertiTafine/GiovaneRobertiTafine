@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Angela Martin</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

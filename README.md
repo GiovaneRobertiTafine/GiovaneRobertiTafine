@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Did I stutter?
+> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
 >
-> <p>- Stanley Hudson</p>
+> <p>- Pam Beesly</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

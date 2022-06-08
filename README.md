@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Sorry I annoyed you with my friendship.
+> Dwight, you ignorant slut!
 >
-> <p>- Andy Bernard</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

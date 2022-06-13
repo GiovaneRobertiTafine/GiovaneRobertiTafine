@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Ryan Howard</p>
+> <p>- Kevin Malone</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

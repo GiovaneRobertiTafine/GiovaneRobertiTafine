@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
 >
-> <p>- Darryl Philbin</p>
+> <p>- Andy Bernard</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

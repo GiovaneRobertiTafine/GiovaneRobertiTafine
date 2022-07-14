@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Well, Happy Birthday Jesus. Sorry your party’s so lame.
+> I feel God in this Chili’s tonight.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I feel God in this Chili’s tonight.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Pam Beesly</p>
+> <p>- Kevin Malone</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

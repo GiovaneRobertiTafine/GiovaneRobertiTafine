@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Bears, Beets, Battlestar Galactica.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

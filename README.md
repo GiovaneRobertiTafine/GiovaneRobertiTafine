@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I'm glad Michael's getting help. He has a lot of issues, and he's stupid.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Phyllis Lapin</p>
+> <p>- Andy Bernard</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

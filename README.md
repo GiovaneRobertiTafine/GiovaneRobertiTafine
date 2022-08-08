@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
 >
-> <p>- Angela Martin</p>
+> <p>- Pam Beesly</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

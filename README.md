@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> If you pray enough, you can change yourself into a cat person.
+> I. Declare. Bankruptcy!
 >
-> <p>- Angela Martin</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

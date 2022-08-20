@@ -15,7 +15,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I. Declare. Bankruptcy!
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 

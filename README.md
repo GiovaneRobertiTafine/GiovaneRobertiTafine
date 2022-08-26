@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Darryl Philbin</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

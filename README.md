@@ -15,7 +15,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> Dwight, you ignorant slut!
 >
 > <p>- Michael Scott</p>
 

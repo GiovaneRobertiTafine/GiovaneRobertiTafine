@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Erin Hannon</p>
+> <p>- Kevin Malone</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

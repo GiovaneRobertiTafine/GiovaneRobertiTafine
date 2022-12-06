@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> There’s a lot of beauty in ordinary things. Isn’t that kind of the point?
+> Occasionally, I’ll hit somebody with my car. So sue me.
 >
-> <p>- Pam Beesly</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

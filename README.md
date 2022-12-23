@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+> Dwight, you ignorant slut!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

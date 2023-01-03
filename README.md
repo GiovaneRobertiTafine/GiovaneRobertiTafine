@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I am immensely proud of what I did for that turtle!
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
-> <p>- Kevin Malone</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

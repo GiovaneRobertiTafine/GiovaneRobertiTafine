@@ -15,7 +15,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Occasionally, I’ll hit somebody with my car. So sue me.
+> I. Declare. Bankruptcy!
 >
 > <p>- Michael Scott</p>
 

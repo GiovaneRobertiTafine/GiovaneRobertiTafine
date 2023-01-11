@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Jim Halpert</p>
+> <p>- Kelly Kapoor</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

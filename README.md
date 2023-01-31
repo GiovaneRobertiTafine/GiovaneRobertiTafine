@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Andy Bernard</p>
+> <p>- Gabe Lewis</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

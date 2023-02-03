@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Sorry I annoyed you with my friendship.
+> I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.
 >
-> <p>- Andy Bernard</p>
+> <p>- Stanley Hudson</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

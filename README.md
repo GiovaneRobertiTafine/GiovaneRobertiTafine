@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Angela Martin</p>
+> <p>- Kelly Kapoor</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

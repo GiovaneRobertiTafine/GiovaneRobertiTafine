@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I have a lot of questions. Number one, how dare you?
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Gabe Lewis</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Toby Flenderson</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

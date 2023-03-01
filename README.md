@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
+> If you pray enough, you can change yourself into a cat person.
 >
-> <p>- Ryan Howard</p>
+> <p>- Angela Martin</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I feel God in this Chili’s tonight.
+> I have a lot of questions. Number one, how dare you?
 >
-> <p>- Pam Beesly</p>
+> <p>- Kelly Kapoor</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

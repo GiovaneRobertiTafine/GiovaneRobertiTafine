@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I have a lot of questions. Number one, how dare you?
+> It has to be official, and it has to be urine.
 >
-> <p>- Kelly Kapoor</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

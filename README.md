@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'
+> Shut up about the sun. SHUT UP ABOUT THE SUN!
 >
-> <p>- Andy Bernard</p>
+> <p>- Gabe Lewis</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

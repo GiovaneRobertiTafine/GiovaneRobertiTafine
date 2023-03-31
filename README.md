@@ -15,9 +15,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Did I stutter?
 >
-> <p>- Gabe Lewis</p>
+> <p>- Stanley Hudson</p>
 
 _Solicitada de [A API do Office](https://www.officeapi.dev/)_
 

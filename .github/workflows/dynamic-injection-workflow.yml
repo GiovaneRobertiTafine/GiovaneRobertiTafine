@@ -16,7 +16,7 @@ jobs:
       - name: Let the magic happen
         uses: actions/setup-node@v3
         with:
-          node-version: 12.3.0
+          node-version: 14.6.0
 
       - run: npm i
 

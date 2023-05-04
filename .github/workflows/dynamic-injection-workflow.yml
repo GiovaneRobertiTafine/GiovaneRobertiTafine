@@ -24,10 +24,9 @@ jobs:
 
       - name: Add to git repo
         run: |
-          git config pull.rebase false
           git pull
           git add .
           git config --global user.name "mandrilla34"
           git config --global user.email "kstv23@hotmail.com"
-          git commit --amend -m "[Automated] README updated with new Office quote!"
+          git commit --m "[Automated] README updated with new Office quote!"
           git push origin master

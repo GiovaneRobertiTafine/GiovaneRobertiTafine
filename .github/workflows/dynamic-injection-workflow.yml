@@ -24,8 +24,6 @@ jobs:
 
       - name: Add to git repo
         run: |
-          git config pull.rebase false
-          git pull
           git rm --cached README.md
           git add .
           git config --global user.name "mandrilla34"

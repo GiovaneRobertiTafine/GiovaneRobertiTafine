@@ -24,7 +24,9 @@ jobs:
 
       - name: Add to git repo
         run: |
+          git pull.rebase false
           git pull
+          git reset --hard master
           git add .
           git config --global user.name "mandrilla34"
           git config --global user.email "kstv23@hotmail.com"

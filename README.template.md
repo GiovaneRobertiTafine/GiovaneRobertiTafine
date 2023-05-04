@@ -11,7 +11,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneRobertiTafine&theme=cobalt&hide_border=true&layout=compact&locale=pt-br&cache_seconds=7000" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiovaneRobertiTafine&show_icons=true&hide=stars&theme=cobalt&locale=pt-br&count_private=true&hide_border=true&include_all_commits=true&cache_seconds=7000" /></a> |
 | ------------- | ------------- |
 
-<br>
 
 ## 📣 Day note, the office:
 

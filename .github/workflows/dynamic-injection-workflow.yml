@@ -24,8 +24,8 @@ jobs:
 
       - name: Add to git repo
         run: |
-          git diff
           git config --global user.name "mandrilla34"
           git config --global user.email "kstv23@hotmail.com"
-          git diff --quiet || (git add . && git commit -m "[Automated] README updated with new Office quote!")
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[gh-action] Update README"
           git push origin master

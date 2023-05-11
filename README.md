@@ -18,7 +18,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 >
 > <p>- Michael Scott</p>
 
-_Solicitada de [A API do Office](https://www.officeapi.dev/)_
+_Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 
 Volte em outro dia para uma nova frase!
   

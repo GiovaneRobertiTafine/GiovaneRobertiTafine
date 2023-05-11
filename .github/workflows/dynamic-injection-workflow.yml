@@ -23,10 +23,10 @@ jobs:
       - run: node .
 
       - name: Add to git repo
-        run: |
-          git config --global user.name "mandrilla34"
-          git config --global user.email "kstv23@hotmail.com"
+        run: |       
+          git config pull.rebase false
+          git pull
           git add .
-          git status
-          git commit -am "[gh-action] Update README"
-          git push -u origin master
+          git config --global user.name "GiovaneRobertiTafine"
+          git config --global user.email "kstv23@hotmail.com"
+          git commit -m "[Automated] README updated with new Office quote!"

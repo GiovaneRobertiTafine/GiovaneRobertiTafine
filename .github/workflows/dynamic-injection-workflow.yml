@@ -24,8 +24,9 @@ jobs:
 
       - name: Add to git repo
         run: |
+          git remote add origin 
           git config --global user.name "mandrilla34"
           git config --global user.email "kstv23@hotmail.com"
           git add .
-          git commit -m "[gh-action] Update README"
-          git push origin master
+          git commit -am "[gh-action] Update README"
+          git push -u origin master

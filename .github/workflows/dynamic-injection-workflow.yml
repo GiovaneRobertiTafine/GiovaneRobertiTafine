@@ -30,3 +30,4 @@ jobs:
           git config --global user.name "GiovaneRobertiTafine"
           git config --global user.email "kstv23@hotmail.com"
           git commit -m "[Automated] README updated with new Office quote!"
+          git push origin master

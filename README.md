@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I find the mystery genre disgusting. I hate being titillated.
+> Sorry I annoyed you with my friendship.
 >
-> <p>- Angela Martin</p>
+> <p>- Andy Bernard</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

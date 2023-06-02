@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Get a friend, loser.
+> Boy, have you lost your mind, 'cause I will help you find it!
 >
-> <p>- Dwight Schrute</p>
+> <p>- Stanley Hudson</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

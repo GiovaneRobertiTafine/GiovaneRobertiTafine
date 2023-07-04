@@ -1,4 +1,4 @@
-name: Dynamic README injection
+name: Dynamic WORK injection
 on:
   push:
     branches:

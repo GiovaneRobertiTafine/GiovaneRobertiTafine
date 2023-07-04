@@ -7,10 +7,6 @@ on:
     # This will make it run every hour
     - cron: "*/2 * * * 1-5"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-permissions:
-  actions: write
-  contents: write  # To push a branch 
-  pull-requests: write  # To create a PR from that branch
 jobs:
   get-office-quotes:
     runs-on: ubuntu-latest

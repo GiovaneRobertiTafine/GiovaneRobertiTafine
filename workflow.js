@@ -15,7 +15,7 @@ async function main() {
     } else {
         readmeTemplate.replace("0 0 */4 * 1-5", "0 0 */3 * 1-5");
     }
-
+    console.log(index);
     const readme = readmeTemplate;
 
     await fs.writeFile("./.github/workflows/dynamic-injection-workflow.yml", readme);

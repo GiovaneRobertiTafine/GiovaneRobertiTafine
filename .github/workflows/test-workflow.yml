@@ -16,7 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
+        with:
+          token: ${{ secrets.WORK_TOKEN }}
       - name: Let the magic happen
         uses: actions/setup-node@v3
         with:
@@ -34,10 +35,4 @@ jobs:
           git config --global user.name "GiovaneRobertiTafine"
           git config --global user.email "kstv23@hotmail.com"
           git commit -m "[Automated] README updated with new Office quote!"
-      
-      - name: push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.WORK_TOKEN }}
-          branch: master 
-          force: true
+          git push origin master

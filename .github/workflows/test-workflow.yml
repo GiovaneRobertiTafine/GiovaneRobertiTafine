@@ -1,5 +1,7 @@
 name: Dynamic README injection
 on:
+  permissions:
+    actions: write
   push:
     branches:
       - master

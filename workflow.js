@@ -11,13 +11,10 @@ async function main() {
         .indexOf("0 0 */3 * 1-5");
 
     if (index !== -1) {
-        readmeTemplate.replace("0 0 */3 * 1-5", "0 0 */4 * 1-5");
+        await fs.writeFile("./.github/workflows/dynamic-injection-workflow.yml", readmeTemplate.replace("0 0 */3 * 1-5", "0 0 */4 * 1-5"));
     } else {
-        readmeTemplate.replace("0 0 */4 * 1-5", "0 0 */3 * 1-5");
+        await fs.writeFile("./.github/workflows/dynamic-injection-workflow.yml", readmeTemplate.replace("0 0 */4 * 1-5", "0 0 */3 * 1-5"));
     }
-    console.log(index);
-    const readme = readmeTemplate;
 
-    await fs.writeFile("./.github/workflows/dynamic-injection-workflow.yml", readme);
 }
 main();

@@ -36,9 +36,8 @@ jobs:
           git commit -m "[Automated] README updated with new Office quote!"
       
       - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.WORK_TOKEN }}
-          repository: geo-smart/curriculum-book-student
-          branch: main 
+          branch: master 
           force: true

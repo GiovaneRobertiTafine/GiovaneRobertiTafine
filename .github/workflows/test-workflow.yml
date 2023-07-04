@@ -34,10 +34,11 @@ jobs:
           git config --global user.name "GiovaneRobertiTafine"
           git config --global user.email "kstv23@hotmail.com"
           git commit -m "[Automated] README updated with new Office quote!"
+      
       - name: push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.WORK_TOKEN }}
-        repository: geo-smart/curriculum-book-student
-        branch: main 
-        force: true
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.WORK_TOKEN }}
+          repository: geo-smart/curriculum-book-student
+          branch: main 
+          force: true

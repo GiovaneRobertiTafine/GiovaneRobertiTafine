@@ -9,6 +9,8 @@ on:
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 permissions:
   actions: write
+  contents: write  # To push a branch 
+  pull-requests: write  # To create a PR from that branch
 jobs:
   get-office-quotes:
     runs-on: ubuntu-latest
@@ -32,4 +34,10 @@ jobs:
           git config --global user.name "GiovaneRobertiTafine"
           git config --global user.email "kstv23@hotmail.com"
           git commit -m "[Automated] README updated with new Office quote!"
-          git push origin master
+      - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.WORK_TOKEN }}
+        repository: geo-smart/curriculum-book-student
+        branch: main 
+        force: true

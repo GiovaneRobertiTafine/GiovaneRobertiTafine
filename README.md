@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
+> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

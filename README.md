@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> About 40 times a year, Michael gets sick but has no symptoms. Dwight is always gravely concerned.
+> How would I describe myself? Three words: hardworking, alpha male, jackhammer, merciless, insatiable.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

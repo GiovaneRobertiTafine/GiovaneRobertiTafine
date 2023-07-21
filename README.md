@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I’m an early bird and a night owl. So I’m wise and have worms.
+> Pizza: the great equalizer.
 >
 > <p>- Michael Scott</p>
 

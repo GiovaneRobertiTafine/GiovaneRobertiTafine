@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> PowerPoints are the peacocks of the business world; all show, no meat.
+> You miss 100 percent of the shots you don’t take. Wayne Gretzky.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

@@ -10,6 +10,8 @@ on:
 jobs:
   get-office-quotes:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     steps:
       - uses: actions/checkout@v3
         with:
@@ -25,7 +27,6 @@ jobs:
 
       - name: Add to git repo
         run: | 
-          git fetch
           git config pull.rebase false
           git pull
           git add .

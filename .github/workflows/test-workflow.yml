@@ -25,10 +25,9 @@ jobs:
 
       - name: Add to git repo
         run: |       
-          git config pull.rebase false
           git pull
           git add .
           git config --global user.name "GiovaneRobertiTafine"
           git config --global user.email "kstv23@hotmail.com"
-          git commit -m "[Automated] WORKFLOW updated with new cron!"
-          git push origin master
+          git commit -am "[Automated] WORKFLOW updated with new cron!"
+          git push -u origin master

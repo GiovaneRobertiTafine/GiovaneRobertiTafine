@@ -24,7 +24,9 @@ jobs:
       - run: node workflow
 
       - name: Add to git repo
-        run: |       
+        run: | 
+          git fetch
+          git config pull.rebase false
           git pull
           git add .
           git config --global user.name "GiovaneRobertiTafine"

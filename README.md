@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I always knew I would be destroyed by my own creation, but honestly, I thought it would be that bull that Mose and I are trying to reanimate.
+> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
 >
 > <p>- Dwight Schrute</p>
 

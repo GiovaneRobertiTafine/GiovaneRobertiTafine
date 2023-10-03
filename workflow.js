@@ -8,7 +8,7 @@ async function main() {
     ).toString("utf-8");
 
     const index = readmeTemplate
-        .indexOf("0 0 */3 * 1-5");
+        .indexOf("0 18 */3 * 1-5");
 
     if (index !== -1) {
         await fs.writeFile("./.github/workflows/dynamic-injection-workflow.yml", readmeTemplate.replace("0 18 */3 * 1-5", "0 18 */4 * 1-5"));

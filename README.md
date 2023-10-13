@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Five minutes ahead of schedule… right on schedule.
+> I studied him, to figure out why I hated him so much. But that blossomed into a very real friendship, as these things often do.
 >
 > <p>- Dwight Schrute</p>
 

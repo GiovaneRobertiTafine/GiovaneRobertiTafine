@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Oh, this is gonna feel so good getting this thing off my chest… that’s what she said.
+> I wonder if king-sized sheets are called presidential-sized in England?
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

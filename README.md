@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I’ve got to make sure that YouTube comes down to tape this.
+> Two queens at casino night. I am gonna drop a deuce on everybody.
 >
 > <p>- Michael Scott</p>
 

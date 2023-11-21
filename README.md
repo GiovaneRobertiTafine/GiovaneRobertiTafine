@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Two queens at casino night. I am gonna drop a deuce on everybody.
+> Saw Inception. Or at least I dreamt I did.
 >
 > <p>- Michael Scott</p>
 

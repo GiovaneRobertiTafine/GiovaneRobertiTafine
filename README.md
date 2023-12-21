@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> D.W.I.G.H.T. Determined. Worker. Intense. Good worker. Hard worker. Terrific.
+> PowerPoints are the peacocks of the business world; all show, no meat.
 >
 > <p>- Dwight Schrute</p>
 

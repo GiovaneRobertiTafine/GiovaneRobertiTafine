@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
 >
 > <p>- Michael Scott</p>
 

@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> It takes you thirty seconds to brush your teeth? Wow, that’s ten times as long as it takes me.
+> Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

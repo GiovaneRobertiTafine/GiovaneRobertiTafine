@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton.
+> I always knew I would be destroyed by my own creation, but honestly, I thought it would be that bull that Mose and I are trying to reanimate.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

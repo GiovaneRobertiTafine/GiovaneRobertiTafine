@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do.
+> There’s no such thing as an appropriate joke. That’s why it’s called a joke.
 >
 > <p>- Michael Scott</p>
 

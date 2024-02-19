@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.
+> I… declare…. bankruptcy!
 >
 > <p>- Michael Scott</p>
 

@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> It is St. Patrick’s Day. And here in Scranton, that is a huge deal. It is the closest that the Irish will ever get to Christmas.
+> Those who can’t farm, farm celery.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

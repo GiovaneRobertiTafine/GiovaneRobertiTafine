@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
+> You don’t know me, you’ve just seen my penis.
 >
 > <p>- Michael Scott</p>
 

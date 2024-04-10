@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Through concentration, I can raise and lower my cholesterol at will.
+> Congratulations on your one cousin. I have seventy, each one better than the last!
 >
 > <p>- Dwight Schrute</p>
 

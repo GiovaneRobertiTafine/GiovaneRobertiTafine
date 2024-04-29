@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> The worst thing about prison was the dementors.
+> Do I have a special someone? Well, yeah, of course. A bunch of ’em. My employees.
 >
 > <p>- Michael Scott</p>
 

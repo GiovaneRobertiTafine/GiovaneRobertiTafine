@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> They say that your wedding day goes by in such a flash that you’re lucky if you even get a piece of your own cake. I say that’s crazy. I say let them eat cake. Margaret Thatcher said that about marriage. Smart broad.
+> I love inside jokes. I hope to be a part of one someday.
 >
 > <p>- Michael Scott</p>
 

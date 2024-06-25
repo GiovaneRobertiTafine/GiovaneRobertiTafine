@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> When Pam gets Michael’s old chair, I get Pam’s old chair. Then I’ll have two chairs. Only one to go.
+> Make friends first, make sales second, make love third. In no particular order.
 >
-> <p>- Creed Bratton</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

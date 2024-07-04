@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I hope the war goes on forever and Ryan gets drafted. I’m sorry, only part of me meant that. He’d probably end up a hero there, anyway.
+> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
 >
 > <p>- Dwight Schrute</p>
 

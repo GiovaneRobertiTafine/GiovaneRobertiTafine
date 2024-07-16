@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Dwight, you ignorant slut!
+> That’s what she said!
 >
 > <p>- Michael Scott</p>
 

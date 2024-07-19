@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> That’s what she said!
+> The only time I set the bar low is for limbo.
 >
 > <p>- Michael Scott</p>
 

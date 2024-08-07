@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I love my employees even though I hit one of you with my car.
+> When I was five, I imagined that there was such a thing as a unicorn. And this was before I had even heard of one, or seen one. I just drew a picture, of a horse, that could fly over rainbows, and had a huge spike in its head. I was five! Five years old. Couldn’t even talk yet.
 >
 > <p>- Michael Scott</p>
 

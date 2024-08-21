@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Those who can’t farm, farm celery.
+> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
 >
 > <p>- Dwight Schrute</p>
 

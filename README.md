@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Reject a woman and she will never let it go. One of the many defects of their kind. Also, weak arms.
+> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

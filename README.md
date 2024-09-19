@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I’m sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans!
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
 > <p>- Michael Scott</p>
 

@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I would not miss it for the world. But if something else came up, I would definitely not go.
+> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
 >
 > <p>- Michael Scott</p>
 

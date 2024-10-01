@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
+> When I President, they see. They see.
 >
-> <p>- Michael Scott</p>
+> <p>- Kevin Malone</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

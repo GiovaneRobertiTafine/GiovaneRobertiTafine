@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Friends joke with one another. ‘Hey, you’re poor.’ ‘Hey, your mama’s dead.’ That’s what friends do.
+> Five minutes ahead of schedule… right on schedule.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

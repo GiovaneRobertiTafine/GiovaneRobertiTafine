@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Schrutes don’t celebrate birthdays, idiot. It started as a depression-era practicality and then, moved on to an awesome tradition that I look forward to every year!
+> There was a terrible war, ugh, so many died. Far too many died. But if Frodo hadn’t destroyed the ring, then goodness itself might have died.
 >
 > <p>- Dwight Schrute</p>
 

@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I am Michael, and I am part English, Irish, German, and Scottish… sort of a virtual United Nations.
+> It is St. Patrick’s Day. And here in Scranton, that is a huge deal. It is the closest that the Irish will ever get to Christmas.
 >
 > <p>- Michael Scott</p>
 

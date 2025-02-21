@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> He’s gone. I miss him so much. Oh, I cry myself to sleep, Jim. False. I do not miss him.
+> I am ready to face any challenge that might be foolish enough to face me.
 >
 > <p>- Dwight Schrute</p>
 

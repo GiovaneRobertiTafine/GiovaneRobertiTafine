@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Michael will be related to this baby through... delusion.
+> In the parking lot today, there was a circus! The copier did tricks on the high-wire. A lady tried to give away a baby that looked like a cat. There was a Dwight impersonator and a Jim impersonator. A strongman crushed a turtle; I laughed, and I cried. Not bad for a day in the life of a dog food company.
 >
-> <p>- Jim Halpert</p>
+> <p>- Creed Bratton</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

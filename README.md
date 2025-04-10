@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> And I’m optimistic because every day I get a little more desperate.
+> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
 >
 > <p>- Michael Scott</p>
 

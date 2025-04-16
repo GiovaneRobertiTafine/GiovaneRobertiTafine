@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here.
+> Creed Bratton has never declared bankruptcy. When Creed Bratton gets in trouble, he transfers his debt to William Charles Scheider.
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

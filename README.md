@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
 >
 > <p>- Dwight Schrute</p>
 

@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> In the end, the greatest snowball isn’t a snowball at all. It’s fear. Merry Christmas.
+> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

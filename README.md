@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

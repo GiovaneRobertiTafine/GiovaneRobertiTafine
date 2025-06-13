@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
+> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
 >
 > <p>- Dwight Schrute</p>
 

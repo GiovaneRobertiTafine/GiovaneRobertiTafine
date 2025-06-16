@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> And I will travel to New Zealand. And walk the Lord of the Rings trail to Mordor.
+> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
 >
 > <p>- Dwight Schrute</p>
 

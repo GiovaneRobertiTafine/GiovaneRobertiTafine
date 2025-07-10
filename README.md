@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I wanna be married and have 100 kids so I can have 100 friends and no one can say ‘no’ to being my friend.
+> Hi, I’m Date Mike. Nice to meet me. How do you like your eggs in the morning?
 >
 > <p>- Michael Scott</p>
 

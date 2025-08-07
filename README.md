@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> In the parking lot today, there was a circus! The copier did tricks on the high-wire. A lady tried to give away a baby that looked like a cat. There was a Dwight impersonator and a Jim impersonator. A strongman crushed a turtle; I laughed, and I cried. Not bad for a day in the life of a dog food company.
+> Through concentration, I can raise and lower my cholesterol at will.
 >
-> <p>- Creed Bratton</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

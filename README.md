@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Nobody likes beets, Dwight! Why don’t you grow something that everybody does like? You should grow candy.
+> The only time I set the bar low is for limbo.
 >
 > <p>- Michael Scott</p>
 

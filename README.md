@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> The only time I set the bar low is for limbo.
+> It’s not like booze ever killed anyone.
 >
 > <p>- Michael Scott</p>
 

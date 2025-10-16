@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Jim couldn’t land me in a thousand years.
+> Why are all these people here? There’s too many people on this earth. We need a new plague.
 >
 > <p>- Dwight Schrute</p>
 

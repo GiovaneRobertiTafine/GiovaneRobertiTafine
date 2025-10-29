@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I think green is kind of whorish.
+> OK, see you later, Pan.
 >
-> <p>- Angela Martin</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

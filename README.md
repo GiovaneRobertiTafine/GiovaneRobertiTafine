@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> OK, see you later, Pan.
+> Babies are one of my many areas of expertise. Growing up, I performed my own circumcision.
 >
 > <p>- Dwight Schrute</p>
 

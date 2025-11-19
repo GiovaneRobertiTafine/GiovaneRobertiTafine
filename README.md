@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Fortunately, my feelings regenerate at twice the speed of a normal man’s.
+> I hate so much about the things you choose to be.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

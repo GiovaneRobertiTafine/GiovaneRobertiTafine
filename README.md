@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> There is no greater feeling than when two people who are perfect for each other overcome all obstacles and find true love.
+> Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject. So you know you are getting the best possible information.
 >
 > <p>- Michael Scott</p>
 

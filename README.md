@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> You only live once? False. You live every day. You only die once.
+> I wonder if king-sized sheets are called presidential-sized in England?
 >
 > <p>- Dwight Schrute</p>
 

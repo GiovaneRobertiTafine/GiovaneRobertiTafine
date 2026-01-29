@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I never thought I’d say this, but I think I ate too much bone marrow.
+> And I’m optimistic because every day I get a little more desperate.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

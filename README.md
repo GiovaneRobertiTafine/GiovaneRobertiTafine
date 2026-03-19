@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> This is our receptionist, Pam. If you think she’s cute now, you should have seen her a couple years ago.
+> I… declare…. bankruptcy!
 >
 > <p>- Michael Scott</p>
 

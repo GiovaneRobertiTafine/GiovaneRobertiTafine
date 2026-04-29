@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Well, it’s love at first sight. Actually, it was… no, it was when I heard her voice. It was love at first see with my ears.
+> If I can’t scuba, then what’s this all been about? What am I working toward?
 >
-> <p>- Michael Scott</p>
+> <p>- Creed Bratton</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

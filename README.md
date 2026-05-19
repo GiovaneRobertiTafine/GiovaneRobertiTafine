@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> The people that you work with are, when you get down to it, your very best friends.
+> Webster’s Dictionary defines wedding as ‘the fusing of two metals with a hot torch.'
 >
 > <p>- Michael Scott</p>
 

@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Twelve hundred dollars is what I spent on my whole bomb shelter. For that kind of money, this stroller, should be indestructible.
+> I don’t care what Jim says. This is NOT the real Ben Franklin. I am 99.9 percent sure.
 >
 > <p>- Dwight Schrute</p>
 

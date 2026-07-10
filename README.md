@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’
+> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
 >
-> <p>- Michael Scott</p>
+> <p>- Pam Beesly</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

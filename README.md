@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I’m guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes, pennies, walnuts.
+> Let’s put a smile on that face.
 >
-> <p>- Pam Beesly</p>
+> <p>- Creed Bratton</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

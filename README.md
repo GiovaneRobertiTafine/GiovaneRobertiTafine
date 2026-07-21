@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> You all took a life here today. You did. The life of the party.
+> It’s Britney, bitch.
 >
 > <p>- Michael Scott</p>
 

@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I hate so much about the things you choose to be.
+> I find the mystery genre disgusting. I hate being titillated.
 >
-> <p>- Michael Scott</p>
+> <p>- Angela Martin</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

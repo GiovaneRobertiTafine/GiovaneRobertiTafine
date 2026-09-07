@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> You couldn’t handle my undivided attention.
+> Oh, you’re paying way too much for worms. Who’s your worm guy?
 >
-> <p>- Dwight Schrute</p>
+> <p>- Creed Bratton</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

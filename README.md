@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Don’t ever, for any reason, do anything to anyone, for any reason, ever, no matter what.
+> I would not miss it for the world. But if something else came up, I would definitely not go.
 >
 > <p>- Michael Scott</p>
 

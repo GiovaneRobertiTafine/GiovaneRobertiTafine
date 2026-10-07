@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> OK, see you later, Pan.
+> Yes, I have a wig for every single person in the office. You never know when you’re gonna need to bear a passing resemblance to someone.
 >
 > <p>- Dwight Schrute</p>
 

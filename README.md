@@ -14,9 +14,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> I think Angela might be gay. Could Oscar and Angela be having a gay affair? Maybe! Is that what this is about?
+> Listen up, Flenderson, you’re being weak and ineffectual. I’m cowboying this meeting, OK! Here are the new rules, OK? Earth tones only. Also, women are forbidden to wear pants.
 >
-> <p>- Michael Scott</p>
+> <p>- Dwight Schrute</p>
 
 _Solicitada de [A API do Office](https://github.com/AkashRajpurohit/the-office-api)_
 

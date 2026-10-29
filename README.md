@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> And I did not become a Lackawanna County volunteer sheriff’s deputy to make friends. And by the way, I haven’t.
+> I am fast. To give you a reference point, I am somewhere between a snake and a mongoose… and a panther.
 >
 > <p>- Dwight Schrute</p>
 

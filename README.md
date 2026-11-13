@@ -14,7 +14,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, e realizo vários cur
 
 ## 📣 Day note, the office:
 
-> Schrute Farms is very easy to find. It’s right in the middle of the root vegetable district. If the soil starts to get acidic, you’ve gone too far.
+> Yes. I have decided to shun Andy Bernard for the next three years. Which I’m looking forward to. It’s an Amish technique.It’s like slapping someone with sile
 >
 > <p>- Dwight Schrute</p>
 
